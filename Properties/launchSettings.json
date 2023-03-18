@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "stduy2 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "stduy2 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
